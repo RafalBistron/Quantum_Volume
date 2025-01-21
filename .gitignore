@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.lr_find*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs and data
+results/
+data/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Pycharm
+.idea/
+
+
+# models and tokenizers and data
+*.json
+*.bin
+*.csv
+*.npy
+*.txt
+!requirements.txt
