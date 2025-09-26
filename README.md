@@ -12,7 +12,6 @@
 This repository contains an implementation of the standard Quantum Volume benchmark and two parity preserving modifications proposed in paper [Benchmarking quantum devices beyond classical capabilities](https://arxiv.org/abs/2502.02575). The quantum circuits are constructed using Qiskit and can be executed either on an IBM quantum computer or its simulators. For a detailed description of the abovementioned tests see the preprint.
 
 
-
 ## Setup
 
 To use this repository, follow these steps:
@@ -31,6 +30,8 @@ To use this repository, follow these steps:
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
    ```
+3. create or update .env file with IBM API key:
+```API_KEY = "your_api_key"```
 
 4. Run jupyter notebook:
 
