@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This repository contains an implementation of the standard Quantum Volume benchmark and two parity preserving modifications proposed in preprint … . The quantum circuits are constructed using Qiskit and can be executed either on an IBM quantum computer or its simulators. For a detailed description of the abovementioned tests see the preprint.
+This repository contains an implementation of the standard Quantum Volume benchmark and two parity preserving modifications proposed in paper [Benchmarking quantum devices beyond classical capabilities](https://arxiv.org/abs/2502.02575). The quantum circuits are constructed using Qiskit and can be executed either on an IBM quantum computer or its simulators. For a detailed description of the abovementioned tests see the preprint.
 
 
 
